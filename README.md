@@ -4,5 +4,6 @@
 
 ### Versions:
 
-1.1 - Added multiple dice support\n
+1.1 - Added multiple dice support
+
 1.0 - Added dice roller
